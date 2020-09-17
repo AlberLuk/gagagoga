@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.search {
+display: flex;
+justify-content: center;
+   
+}
+input{
+    width: 145px;
+    height: 30px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 0% 0% 0% 47%;
+}
+.leftColumn{
+    margin-left: 40px;
+}

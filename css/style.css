@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+}
+
+header{
+    height: 100%;
+    width: 100%;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0 auto;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.recard {
+    font-size: 40px;
+}
+.placeForForm{
+    width: 30%;
+    margin: 3vw auto;
+}
+
+h2{
+    margin: 20% 34% 80% 66%;
+    font-size: 30px;
+}

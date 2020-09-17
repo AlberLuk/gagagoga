@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-left: 50%;
+    margin: 50%;
+    background-color: blueviolet;
+    text-decoration: pink;
+}

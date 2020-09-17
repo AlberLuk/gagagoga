@@ -1,0 +1,96 @@
+
+
+.head{
+background-color: rgb(71, 67, 67);
+width:1930px;
+ border: 2px white;
+ width: 1500x;
+ height: 50px;
+ margin-left: -20px;
+ margin-top: -9px;
+ 
+}
+
+
+body{
+   background: url(pap.png);
+   
+   
+}
+
+.container{
+   margin-left: 530px;
+   width: 1000px;
+}
+
+
+.friends{
+text-align:left;
+background-color: rgb(61, 59, 59);
+ margin-left: 150px;
+ margin-top: 20px;
+ z-index: 10;
+width: 579px;
+height: 1000px;
+display: flex;
+    flex-direction:column;
+    align-items:center;
+    position: fixed;
+}
+
+input{
+   border: 0px;
+   margin-top: 10px;
+   width: 574px;
+   height:45px;
+   background-color: rgb(133, 128, 128);
+
+
+}
+.son{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   list-style-type: none;
+   text-align: center;
+   list-style-type: none;
+   font-size: 120%;
+   
+}
+.top_person_menu{
+   position: relative;
+    width: 550px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.left_top_person_menu{
+   margin: 0 0 0 -10vw;
+   width: 130px; 
+   cursor: pointer;
+   
+}
+
+.right_top_person_menu{
+   width: 60px;
+   height: 45px;
+   margin: 0 20px 0 0;
+   border-radius: 20%;
+   border: 2px solid black;
+   
+}
+
+.you{
+   margin: 0 200px 0 1500px;
+   text-align: center;
+    position: absolute;
+    margin-top: 13px;
+    font-size: 120%;
+    
+}

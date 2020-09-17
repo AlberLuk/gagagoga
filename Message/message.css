@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    width: 55%; 
+    margin: 5vw auto;
+    height: 100%;
+    background-color: white;
+    overflow: scroll;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.message_box{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 1vw;
+    overflow: scroll;
+}
+
+
+.message_item{
+    height: 4vw;
+    width: 95%;
+    background-color: gray;
+    margin: 0.5vw auto;
+    list-style: none;
+}
+
+.leftmenu{
+    width:15%; 
+    right: 10%;
+}   

@@ -1,0 +1,26 @@
+body{
+    width: 1000px;
+}
+.main{
+    border: 1px solid black;
+    width: 550px;
+    height: 650px;
+    margin-left: 70%;
+    margin-top: 14%;
+    
+}
+
+.logo{
+    margin-left: 95%;   
+    
+    
+}
+
+input{
+    border: 1px solid grey;
+    margin-top: 10%;
+    margin-left: 13%;
+    height: 40px;
+    width: 400px;
+}
+
